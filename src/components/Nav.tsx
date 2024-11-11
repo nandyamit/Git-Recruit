@@ -8,7 +8,7 @@ const Nav = () => {
     <nav className="navbar">
       <div className="nav-container">
         <div className="nav-brand">
-          <h1>Candidate Search Application</h1>
+          <h1>Git Recruiter</h1>
         </div>
         <div className="nav-links">
           <Link 
