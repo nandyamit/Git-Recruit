@@ -1,7 +1,7 @@
-# GitHub Candidate Search Application
+# GitHub Recuriter
 
 ## Description
-The GitHub Candidate Search Application is a web-based tool that helps employers find potential candidates by leveraging the GitHub API. The application allows users to browse through GitHub profiles, save interesting candidates, and manage a list of potential recruits.
+Git Recuriter is a web-based tool that helps employers find potential candidates by leveraging the GitHub API. The application allows users to browse through GitHub profiles, save interesting candidates, and manage a list of potential recruits.
 
 ## Features
 - Random GitHub user discovery
